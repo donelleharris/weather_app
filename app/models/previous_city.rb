@@ -1,0 +1,3 @@
+class PreviousCity < ApplicationRecord
+	
+end

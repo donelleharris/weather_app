@@ -1,0 +1,2 @@
+module PreviousCitiesHelper
+end
